@@ -11,8 +11,7 @@ Welcome to DocTestt's documentation!
    :caption: Contents:
 
    chapter1
-
-
+   
 
 Indices and tables
 ==================
