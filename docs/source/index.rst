@@ -10,6 +10,8 @@ Welcome to DocTestt's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   chapter1
+
 
 
 Indices and tables
